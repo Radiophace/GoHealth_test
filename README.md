@@ -15,4 +15,25 @@ GoHealth_test.py contains code for parsing Json
       Code is only prints Plan ID 
       
    5) Submission Attempt Count is not higher than 5.
-       If subm Submission Attempt Count hieger than 5 code print error message
+       If Submission Attempt Count hieger than 5 code print error message
+       
+   
+= Test_login.py =  
+Here I made simple automated test for entering login info and press enter button to see error messages
+
+= Answers for questions =
+
+1. Describe your understanding of the term 'Specification by example'.
+   Specification by example is  a way to quickly come up with requirements in test-cases, using examples to clarify things early. 
+
+2. What content makes good bug report?
+   Clear and understanding title 
+   Informative description
+   Clear steps to replicate the issue
+
+3. What content makes good test run report?
+	Detailed description of the testing activity
+	Information in the test report should be short and clearly understandable
+
+
+
