@@ -1,0 +1,19 @@
+{  "planInfos": [
+    {
+      "carrierName": "Humana",
+      "effectiveDate": "2022-01-01",
+      "planId": "15216-28-0",
+      "planName": "HumanaChoice SNP-DE 15216-228-0 (PPO D-SNP)",
+      "planType": "PPO D-SNP",
+      "premium": "0.0",
+      "prescriptionDrugCoverage": "Yes",
+      "productType": "MEDICARE_ADVANTAGE",
+      "riderInfos": null,
+      "specialNeedsPlanConditions": [],
+      "specialNeedsPlanType": "Dual-Eligible"
+    }
+  ],
+  "submissionAttemptCount": 5,
+  "submissionErrorCode": "",
+  "updateStatusAuthToken": ""
+}
